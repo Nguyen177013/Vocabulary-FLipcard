@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+html,body{
+    height: 100%;
+}
+textarea:focus, input:focus{
+    outline: none;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #301631;
+}
+.card-word{
+    background-color: transparent;
+    width: 300px;
+    margin-bottom: 20px;
+    height: 300px;
+    perspective: 100em;
+}
+.English_word{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.7s;
+    transform-style: preserve-3d;
+    /* ,shake 0.6s 1s,hide linear 0.5s 2s forwards */
+}
+.card-front , .card-back{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    border-radius: 10px;
+}
+.card-front{
+    background-color: #fff;
+}
+.card-back{
+    background-color: transparent;
+    transform: rotateY(180deg);
+}
+.correct, .incorrect{
+    color:white
+}
+.correct{
+    background-color: rgb(72, 183, 28);
+}
+.incorrect{
+    background-color: rgb(181, 53, 53);
+}
+.word{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.word span{
+    font-size: 32px;
+    font-weight: bold;
+}
+.Type_result{
+    text-align: center;
+    margin-top: 12px;
+    position: relative;
+}
+.Type_result .text{
+    padding: 1rem 0.5rem;
+    width: 16rem;
+    height: 3rem;
+    border-radius: 2px;
+    border: 0.5px solid #3b2b4a;
+    font-weight: bolder;
+    background-color: #301631;
+    color: #fff;
+    transition: all 0.3s ease;
+}
+.Type_result label{
+    position: absolute;
+    color: #fff;
+    width: 100%;
+    top: 13px;
+    left: -40px;
+    font-weight: bolder;
+    pointer-events: none;
+    transition: all 0.5s ease;
+}
+.Type_result .text:focus{
+    border: 0.5px solid #fff;
+    font-weight: 400;
+}
+.Type_result .text:focus + label,
+.Type_result .text:valid + label{
+    width: 6.5rem;
+    transform: translate(50px, -20px);
+    font-size: 12px;
+    border-left: 1px solid #fff ;
+    border-right: 1px solid #fff ;
+    background-color: #301631;
+    letter-spacing: 0.5px;
+}
+.btn-submit{
+    margin-top: 10px;
+    background-color: #6c4298;
+    padding: 8px 30px;
+    color: #fff;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: all 0.4s;
+}
+.btn-submit:hover{
+    background-color: #59367d;
+}
+@keyframes show{
+    from{
+        transform: translateX(-30rem);
+        opacity: 0;
+
+    }
+    to{
+        transform: translateX(0rem);
+        opacity: 1;
+    }
+}
+@keyframes hide{
+    from{
+        transform: translateX(0rem);
+        opacity: 1;
+        
+    }
+    to{
+        transform: translateX(16rem);
+        opacity: 0;
+    }
+}
+@keyframes shake {
+    0% { transform: translate(1px, 1px) rotate(0deg); }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    100% { transform: translate(1px, -2px) rotate(-1deg); }
+  }

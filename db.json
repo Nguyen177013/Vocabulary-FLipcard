@@ -1,0 +1,276 @@
+{
+ "English":[{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e44605e"
+    },
+    "title": "abduct",
+    "translate": "bắt cóc",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e44605f"
+    },
+    "title": "abortion",
+    "translate": "sự phá thai",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e446060"
+    },
+    "title": "above",
+    "translate": "ở trên",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e446061"
+    },
+    "title": "absent",
+    "translate": "vắng mặt",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e446062"
+    },
+    "title": "absolve",
+    "translate": "tha cho",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e446063"
+    },
+    "title": "languished",
+    "translate": "mệt mỏi",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e446064"
+    },
+    "title": "disturbance",
+    "translate": "xáo trộn",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e446065"
+    },
+    "title": "subsidize",
+    "translate": "trợ cấp",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e446066"
+    },
+    "title": "scenario",
+    "translate": "kịch bản",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e446067"
+    },
+    "title": "confidentiality",
+    "translate": "bảo mật",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e446068"
+    },
+    "title": "criticizing",
+    "translate": "chỉ trích",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e446069"
+    },
+    "title": "conpensate",
+    "translate": "đền bù",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e44606a"
+    },
+    "title": "speculated",
+    "translate": "suy đoán",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e44606b"
+    },
+    "title": "salvation",
+    "translate": "sự cứu rỗi",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e44606c"
+    },
+    "title": "conflict",
+    "translate": "xung đột",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e44606d"
+    },
+    "title": "ruthless",
+    "translate": "tàn nhẫn",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e44606e"
+    },
+    "title": "determined",
+    "translate": "xác định",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e44606f"
+    },
+    "title": "morale",
+    "translate": "đạo đức",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e446070"
+    },
+    "title": "nag",
+    "translate": "cằn nhằn",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e446071"
+    },
+    "title": "deception",
+    "translate": "lừa dối",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e446072"
+    },
+    "title": "karma",
+    "translate": "nghiệp chướng",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e446073"
+    },
+    "title": "sanity",
+    "translate": "sự tỉnh táo",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e446074"
+    },
+    "title": "tainted",
+    "translate": "bị nhiễm độc",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e446075"
+    },
+    "title": "priority",
+    "translate": "quyền ưu tiên",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e446076"
+    },
+    "title": "slumber",
+    "translate": "giấc ngủ",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e446077"
+    },
+    "title": "envy",
+    "translate": "ghen tị",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e446078"
+    },
+    "title": "particular",
+    "translate": "cụ thể",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e446079"
+    },
+    "title": "deputy",
+    "translate": "phó",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e44607a"
+    },
+    "title": "inappropriate",
+    "translate": "không đúng đắng",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e44607b"
+    },
+    "title": "worn",
+    "translate": "rách nát",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e44607c"
+    },
+    "title": "wilful",
+    "translate": "cố ý",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e44607d"
+    },
+    "title": "whin",
+    "translate": "rên rỉ",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e44607e"
+    },
+    "title": "viral",
+    "translate": "lan tỏa",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e44607f"
+    },
+    "title": "vibrator",
+    "translate": "máy rung",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e446080"
+    },
+    "title": "flirt",
+    "translate": "tán tỉnh",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e446081"
+    },
+    "title": "traumatize",
+    "translate": "chấn thương",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e446082"
+    },
+    "title": "testical",
+    "translate": "tinh hoàn",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e446083"
+    },
+    "title": "suspended",
+    "translate": "cấm",
+    "correct": false
+  },{
+    "_id": {
+      "$oid": "62c44aaa00f32ec33e446084"
+    },
+    "title": "subservience",
+    "translate": "sự tồn tại",
+    "correct": false
+  }]
+}
